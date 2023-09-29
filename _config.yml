@@ -136,7 +136,7 @@ related_blog_posts:
 giscus:
   repo: gabikadlecova/gabikadlecova.github.io      # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOKZz1gQ
-  category: Comments             # name of the category under which discussions will be created
+  category: General             # name of the category under which discussions will be created
   category_id: DIC_kwDOKZz1gc4CZvDK
   mapping: pathname                 # identify discussions by post title
   strict: 1                      # use strict identification mode
