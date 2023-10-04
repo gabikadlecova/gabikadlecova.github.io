@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught at Charles University.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## 2021/2022 – winter
+[Algorithmization and Programming 1 (practicals)](/teaching/2021_2022_programming_algorithms)
 
-Organize your courses by years, topics, or universities, however you like!
+
+
