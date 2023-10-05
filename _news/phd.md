@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Started a PhD at the Faculty of Mathematics and Physics, Charles University in Prague. Focus -- Neural architecture
-search, performance prediction and graph neural networks.
+Started a PhD at the Faculty of Mathematics and Physics, Charles University in Prague and Institute of Computer Science of the Czech Academy of Sciences.
+Focus -- Neural architecture search, performance prediction and graph neural networks.
 
 Supervisor: [Mgr. Roman Neruda CSc.](https://www.cs.cas.cz/staff/neruda/en)
