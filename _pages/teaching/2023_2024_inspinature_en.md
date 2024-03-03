@@ -30,10 +30,10 @@ If enough time, I will also show you how to create Python packages.
 
 | 20. 2. 2024 | [Intro](https://github.com/gabikadlecova/inspinature/tree/main/en/01-intro) |
 | 27. 2. 2024 | Reinforcement learning |
-| 5. 3. 2024 | 	Evolutionary algorithms - intro |
-| 12. 3. 2024 | 	Evolutionary algorithms - continuous problems |
-| 19. 3. 2024 | 	Evolutionary algorithms - genetic programming |
-| 26. 3. 2024 | Cancelled because Martin is not here (no lecture, consultation possible) |
+| 5. 3. 2024 | Cancelled due to illness	 |
+| 12. 3. 2024 | Evolutionary algorithms - intro	 |
+| 19. 3. 2024 | Evolutionary algorithms - continuous problems	|
+| 26. 3. 2024 | Evolutionary algorithms - genetic programming  |
 | 2. 4. 2024 | 	Cancelled because there is no lecture due to Easter |
 | 9. 4. 2024 | 	Neural networks - intro |
 | 16. 4. 2024 | 	Neural networks - RBF and recurrent nets |

@@ -36,10 +36,10 @@ Když budu mít čas, ukážu vám i tvorbu pythonovských balíčků.
 
 | 19. 2. 2024 | [Úvod](https://github.com/gabikadlecova/inspinature/tree/main/cz/01-intro) |
 | 26. 2. 2024 | [Zpětnovazební učení](https://github.com/gabikadlecova/inspinature/tree/main/cz/02-rl) |
-| 4. 3. 2024 | 	Evoluční algoritmy - úvod |
-| 11. 3. 2024 | 	Evoluční algoritmy - spojité problémy |
-| 18. 3. 2024 | 	Evoluční algoritmy - genetické programování |
-| 25. 3. 2024 | Odpadá pro zachování návaznosti na přednášku (lze konzultace) |
+| 4. 3. 2024 | Odpadá (nemoc)	 |
+| 11. 3. 2024 | Evoluční algoritmy - úvod	 |
+| 18. 3. 2024 | Evoluční algoritmy - spojité problémy	 |
+| 25. 3. 2024 | Evoluční algoritmy - genetické programování |
 | 1. 4. 2024 | 	Odpadá, protože je Velikonoční pondělí |
 | 8. 4. 2024 | 	Neuronové sítě - úvod |
 | 15. 4. 2024 | 	Neuronové sítě - RBF sítě a rekurentní sítě |
