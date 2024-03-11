@@ -2,7 +2,7 @@
 layout: post
 title: COVID-19 vaccine waning survival analysis
 date: 2023-10-04 17:00:00+0200
-description: an example of a blog post with jupyter notebook
+description: Workbook on vaccine waning modeling with neural networks.
 tags: hands-on
 giscus_comments: true
 related_posts: false
