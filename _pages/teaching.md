@@ -12,8 +12,8 @@ nav_order: 5
 
 [Nature inspired algorithms (labs)](/teaching/2023_2024_inspinature_en)
 
+[Thesis topics (Bc, Mgr)](/teaching/topics)
+
 ## 2021/2022 – winter
 [Algorithmization and Programming 1 (practicals)](/teaching/2021_2022_programming_algorithms)
-
-
 

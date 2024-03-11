@@ -29,9 +29,9 @@ experimental design, or using wandb, tmux, and metacentrum for easier life durin
 If enough time, I will also show you how to create Python packages.
 
 | 20. 2. 2024 | [Intro](https://github.com/gabikadlecova/inspinature/tree/main/en/01-intro) |
-| 27. 2. 2024 | Reinforcement learning |
+| 27. 2. 2024 | [Reinforcement learning](https://github.com/gabikadlecova/inspinature/tree/main/en/02-rl) |
 | 5. 3. 2024 | Cancelled due to illness	 |
-| 12. 3. 2024 | Evolutionary algorithms - intro	 |
+| 12. 3. 2024 | [Evolutionary algorithms - intro](https://github.com/gabikadlecova/inspinature/tree/main/en/03-ea)	 |
 | 19. 3. 2024 | Evolutionary algorithms - continuous problems	|
 | 26. 3. 2024 | Evolutionary algorithms - genetic programming  |
 | 2. 4. 2024 | 	Cancelled because there is no lecture due to Easter |
