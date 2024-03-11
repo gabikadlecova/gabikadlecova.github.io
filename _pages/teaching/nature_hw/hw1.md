@@ -34,6 +34,12 @@ Vaším cílem je pak najít řešení (kumulativní cenu podmnožiny) pro soubo
 - Nejlepší řešení, které jste objevili (hlavně jeho cena)
 
 
+Hodnocení:
+a) Najděte nejlepší řešení pro `debug_10.txt` a `debug_20.txt`
+b) Co nejlepší výsledek pro `input100.txt` a `input1000.txt`
+b*) (I relativně slabé výsledky mohou projít, pokud je řešení dobře zdokumentované a 
+  zkusili jste a zdokumentovali několik variant nastavení algoritmu - hyperparams, různé operátory/fitness...)
+
 # Knapsack problem
 ## Deadline - 9th April 2024 (23:59 UTC+2)
 A set of $$n$$ objects is given with weights $$w_i$$ and prices $$c_i$$. The goal in the knapsack
@@ -60,3 +66,9 @@ files `input_100.txt` and `input_1000.txt`.
 - Algorithm code + instructions for running it
 - Graph showing how fitness changed over generations
 - The best solution you discovered (especially its price)
+
+Evaluation criteria
+a) Find the best solution for `debug_10.txt` and `debug_20.txt`
+b) A good score on `input100.txt` `input1000.txt`
+b*) (Even relatively weak results can pass if the solution is well-documented, and you tried and documented several
+  settings of the algorithm - hyperparams, different operators/fitness...)
