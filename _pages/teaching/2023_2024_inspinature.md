@@ -39,7 +39,7 @@ Když budu mít čas, ukážu vám i tvorbu pythonovských balíčků.
 | 4. 3. 2024 | Odpadá (nemoc)	 |
 | 11. 3. 2024 | [Evoluční algoritmy - úvod](https://github.com/gabikadlecova/inspinature/tree/main/cz/03-ea)	 |
 | 18. 3. 2024 | [Evoluční algoritmy - spojité problémy](https://github.com/gabikadlecova/inspinature/tree/main/cz/04-ea-cc) |
-| 25. 3. 2024 | Evoluční algoritmy - genetické programování |
+| 25. 3. 2024 | [Evoluční algoritmy - genetické programování](https://github.com/gabikadlecova/inspinature/tree/main/cz/05-gp) |
 | 1. 4. 2024 | 	Odpadá, protože je Velikonoční pondělí |
 | 8. 4. 2024 | 	Neuronové sítě - úvod |
 | 15. 4. 2024 | 	Neuronové sítě - RBF sítě a rekurentní sítě |
