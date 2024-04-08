@@ -41,7 +41,7 @@ Když budu mít čas, ukážu vám i tvorbu pythonovských balíčků.
 | 18. 3. 2024 | [Evoluční algoritmy - spojité problémy](https://github.com/gabikadlecova/inspinature/tree/main/cz/04-ea-cc) |
 | 25. 3. 2024 | [Evoluční algoritmy - genetické programování](https://github.com/gabikadlecova/inspinature/tree/main/cz/05-gp) |
 | 1. 4. 2024 | 	Odpadá, protože je Velikonoční pondělí |
-| 8. 4. 2024 | 	Neuronové sítě - úvod |
+| 8. 4. 2024 | 	[Neuronové sítě - úvod](https://github.com/gabikadlecova/inspinature/tree/main/cz/06-nn) |
 | 15. 4. 2024 | 	Neuronové sítě - RBF sítě a rekurentní sítě |
 | 22. 4. 2024 | 	Neuronové sítě - konvoluční sítě |
 | 29. 4. 2024 | 	Neuroevoluce |
