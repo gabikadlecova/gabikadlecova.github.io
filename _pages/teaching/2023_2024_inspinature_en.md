@@ -21,7 +21,7 @@ Deadline for each homework is the evening after this exercise. The assignments a
 
 - [Knapsack problem](/teaching/2023_2024_inspinature_hw1/) (Deadline 9th April 2024)
 - [Reinforcement learning using neuroevolution](/teaching/2023_2024_inspinature_hw2/) (Deadline 14th May 2024)
-- [Vehicle routing problem](/teaching/2023_2024_inspinature_hw2/) (Deadline 28th May 2024)
+- [Vehicle routing problem](/teaching/2023_2024_inspinature_hw3/) (Deadline 28th May 2024)
 
 ## Schedule
 We will practice topics from the lecture. In addition, you can look forward to expanding topics such as

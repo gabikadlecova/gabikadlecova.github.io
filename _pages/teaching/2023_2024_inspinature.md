@@ -25,7 +25,7 @@ Deadline každého úkolu je večer po anglickém cvičení. Zadání úloh je z
 
 - [Problém batohu](/teaching/2023_2024_inspinature_hw1/) (Deadline 9. dubna 2024)
 - [Zpětnovazební učení s využitím neuroevoluce](/teaching/2023_2024_inspinature_hw2/) (Deadline 14. května 2024)
-- [Vehicle routing problem](/teaching/2023_2024_inspinature_hw2/) (Deadline 28. května 2024)
+- [Vehicle routing problem](/teaching/2023_2024_inspinature_hw3/) (Deadline 28. května 2024)
 
 
 ## Plán cvičení
