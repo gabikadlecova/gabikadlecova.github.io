@@ -43,7 +43,7 @@ Když budu mít čas, ukážu vám i tvorbu pythonovských balíčků.
 | 1. 4. 2024 | 	Odpadá, protože je Velikonoční pondělí |
 | 8. 4. 2024 | 	[Neuronové sítě - úvod](https://github.com/gabikadlecova/inspinature/tree/main/cz/06-nn) |
 | 15. 4. 2024 | 	[Neuronové sítě - RBF sítě a rekurentní sítě](https://github.com/gabikadlecova/inspinature/tree/main/cz/07-rbf) |
-| 22. 4. 2024 | 	Neuronové sítě - konvoluční sítě |
+| 22. 4. 2024 | 	[Neuronové sítě - konvoluční sítě](https://github.com/gabikadlecova/inspinature/tree/main/cz/08-cnn) |
 | 29. 4. 2024 | 	Neuroevoluce |
 | 6. 5. 2024 | 	Rojové optimalizační algoritmy |
 | 13. 5. 2024 | 	Hluboké zpětnovazební učení |

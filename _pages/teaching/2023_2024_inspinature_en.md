@@ -37,7 +37,7 @@ If enough time, I will also show you how to create Python packages.
 | 2. 4. 2024 | 	Cancelled because there is no lecture due to Easter |
 | 9. 4. 2024 | 	[Neural networks - intro](https://github.com/gabikadlecova/inspinature/tree/main/en/06-nn/) |
 | 16. 4. 2024 | 	[Neural networks - RBF and recurrent nets](https://github.com/gabikadlecova/inspinature/tree/main/en/07-rbf) |
-| 23. 4. 2024 | 	Neural networks - convolutional neural nets |
+| 23. 4. 2024 | 	[Neural networks - convolutional neural nets](https://github.com/gabikadlecova/inspinature/tree/main/en/08-cnn) |
 | 30. 4. 2024 | 	Neuroevolution |
 | 7. 5. 2024 | 	Swarm optimization algorithms |
 | 14. 5. 2024 | Cancelled due to the University-wide sports day |
