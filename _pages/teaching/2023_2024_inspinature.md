@@ -47,4 +47,4 @@ Když budu mít čas, ukážu vám i tvorbu pythonovských balíčků.
 | 29. 4. 2024 | 	[Neuroevoluce](https://github.com/gabikadlecova/inspinature/tree/main/cz/09-neat) |
 | 6. 5. 2024 | 	[Rojové optimalizační algoritmy](https://github.com/gabikadlecova/inspinature/tree/main/cz/10-zviratka) |
 | 13. 5. 2024 | 	[Hluboké zpětnovazební učení](https://github.com/gabikadlecova/inspinature/tree/main/cz/11-drl) |
-| 26. 5. 2024 | 	Artificial Life |
+| 20. 5. 2024 | 	Artificial Life |
