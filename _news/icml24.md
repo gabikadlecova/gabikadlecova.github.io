@@ -5,5 +5,5 @@ inline: True
 related_posts: false
 ---
 
-Our paper on [GRAF](https://arxiv.org/abs/2404.16551) was accepted to ICML 2024! We present neural graph
+Our paper on [GRAF](https://openreview.net/forum?id=EhPpZV6KLk) was accepted to ICML 2024! We present neural graph
 features that outperform most existing performance predictors in neural architecture search.
