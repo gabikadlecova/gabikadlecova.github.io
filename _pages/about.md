@@ -14,12 +14,9 @@ latest_posts: true  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Gabriela Kadlecová and I am a PhD student at Charles University in Prague. My research topic is [Neural architecture search](https://www.automl.org/nas-overview/),
-specifically I focus on performance prediction, zero-cost proxies and graph neural network used as surrogate models.
+My name is Gabriela Kadlecová and I am a 4th year PhD student at the Charles University in Prague. Currently, I am doing an internship in Amazon Alexa in Turin.
 
-<p>
-In my free time, I enjoy reading, doing sports or playing board games. Other hobbies: 🐦 🏞️ :japan: 🎹
-<img height="20" src="assets/img/warhammer.png" />
-</p>
+In my research, I focused on Neural architecture search,
+specifically performance prediction, zero-cost proxies and graph neural network used as surrogate models. I also worked on the open-source library <a href=https://github.com/whittle-org/whittle>whittle</a> for LLM compression.
 
-Thank you for visiting my website, feel free to contact me using any of the social buttons ⤵️
+Feel free to connect with me using any of the social buttons at the bottom of this page ⤵️
